@@ -1,4 +1,4 @@
 # TIMER
 
 
-# FEW UPDATES COMMING 
+# few updates comming sooner 
