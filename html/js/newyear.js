@@ -1,4 +1,4 @@
-let countDate = new Date('Jan 1, 2021, 00:00')
+let countDate = new Date('Jan 1, 2022, 00:00')
 //let countDate = new Date('Sep 6, 2020, 14:15:30')
 
 let t = setInterval(() => {
